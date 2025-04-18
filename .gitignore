@@ -1,0 +1,13 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# AWS CLI
+awscliv2.zip
+
+# System
+.DS_Store
+.idea/
+*.swp
